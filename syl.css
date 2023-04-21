@@ -1,0 +1,20 @@
+lable{
+    color:blueviolet;
+}
+input{
+    color:blue;
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+}
+button{
+    background-color: black;
+    color:wheat;
+    cursor: pointer;
+    padding: 12px;
+    border-radius: 6px;
+}
+body{
+    background-image: url("https://www.freevector.com/uploads/vector/preview/30349/Abstract_background_vector_1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
